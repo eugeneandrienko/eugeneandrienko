@@ -1,0 +1,8 @@
+Hello, my name is Eugene and I'm a Java developer with 6+ years
+experience. But a long times ago I also worked in embedded industry — wrote
+software for industrial controllers in local company in Saint-Petersburg.
+
+Love to explore and improve complex software systems.
+
+Good at Java, Linux, Docker, unit tests and SQL. My key principle is attention
+to small but important details.
