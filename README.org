@@ -1,3 +1,9 @@
+<div id="badges">
+    <a href="https://www.linkedin.com/in/eugeneandrienko/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+</div>
+
 Hello, my name is Eugene and I'm a Java developer with 6+ years
 experience. But a long times ago I also worked in embedded industry — wrote
 software for industrial controllers in local company in Saint-Petersburg.
