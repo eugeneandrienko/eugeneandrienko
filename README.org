@@ -1,8 +1,13 @@
+#+begin_html
 <div id="badges">
     <a href="https://www.linkedin.com/in/eugeneandrienko/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://vas3k.club/user/evgandr/">
+        <img src="https://img.shields.io/badge/Vas3k.club-black?style=for-the-badge&label=X&logoColor=white" alt="Vas3k.club Badge"/>
+    </a>
 </div>
+#+end_html
 
 Hello, my name is Eugene and I'm a Java developer with 6+ years
 experience. But a long times ago I also worked in embedded industry — wrote
