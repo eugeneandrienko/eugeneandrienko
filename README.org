@@ -9,11 +9,22 @@
 </div>
 #+end_html
 
+* About Me:
+
 Hello, my name is Eugene and I'm a Java developer with 6+ years
 experience. But a long times ago I also worked in embedded industry — wrote
 software for industrial controllers in local company in Saint-Petersburg.
 
 Love to explore and improve complex software systems.
 
+* Languages and Tools:
+
 Good at Java, Linux, Docker, unit tests and SQL. My key principle is attention
 to small but important details.
+
+** GitHub statistics:
+
+#+begin_html
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeneandrienko&size_weight=0.5&count_weight=0.5&layout=compact&theme=graywhite&exclude_repo=eugeneandrienko.github.io,eugeneandrienko"/>
+#+end_html
